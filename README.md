@@ -53,3 +53,4 @@ Generally, though, you should keep all your source code together in a _folder/di
 
 You can do it, we know you can. Ask around if confused, you're not the only one confused.
 
+This is my commit practice
